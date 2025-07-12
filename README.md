@@ -1,1 +1,2 @@
-# Adarsh.dev_Link:https://adarsh-tech-showcase.lovable.app/
+# Adarsh.dev
+**Link:https://adarsh-tech-showcase.lovable.app/**
