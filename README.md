@@ -113,3 +113,22 @@ To connect a domain, navigate to Project > Settings > Domains and click Connect 
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
+## 👨‍💻 Author
+
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI | Data Science | Computer Vision Enthusiast
+
+📧 [Email].[adarshlilhare@example.com]
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
+
