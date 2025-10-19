@@ -122,7 +122,7 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-trick
 
 💼 AI | Data Science | Computer Vision Enthusiast
 
-📧 [Email](adarshlilhare@example.com).
+📧 [Email](adarshlilhare@example.com)
 
 🐙 [GitHub](https://github.com/AdarshVL) 
 
